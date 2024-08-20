@@ -10,9 +10,9 @@ Enabling the creation of software applications and systems that power various as
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 These include the development of programming languages such as Fortran, C, ADA
-i)The establishment of software engineering as a discipline in the 1960s
-ii)The advent of structured programming in the 1970s
-iii)The rise of agile methodologies in the 2000s.
+i). The establishment of software engineering as a discipline in the 1960s
+ii). The advent of structured programming in the 1970s
+iii). The rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements: Gathering and documenting user needs and system requirements.
@@ -28,9 +28,9 @@ Waterfall is the Sequential approach with distinct phases flowing downwards like
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-1.Software Developer are responsible for writing code and implementing software solutions.
-2.Quality Assurance Engineer - ensures software quality by designing and executing test plans.
-3.Project Manager they oversees the planning, execution, and delivery of software projects.
+1. Software Developer are responsible for writing code and implementing software solutions.
+2. Quality Assurance Engineer - ensures software quality by designing and executing test plans.
+3. Project Manager they oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 1. IDE's are software suites that provide comprehensive tools for writing, debugging, and testing code for example Visual Studio, Eclipse, IntelliJ IDEA).
@@ -38,16 +38,16 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-i. Changing Requirements
-ii. Tight Deadlines
-iii. Technical Debt
+i). Changing Requirements
+ii). Tight Deadlines
+iii). Technical Debt
 Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-i) Unit Testing this involves testing individual components or modules of software.
-ii) Integration Testing involves testing interactions between different components or subsystems.
-iii) System Testing: Testing the entire software system as a whole.
-iv) Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+i). Unit Testing this involves testing individual components or modules of software.
+ii). Integration Testing involves testing interactions between different components or subsystems.
+iii). System Testing: Testing the entire software system as a whole.
+iv). Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
 
