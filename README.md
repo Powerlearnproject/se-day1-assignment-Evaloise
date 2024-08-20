@@ -10,9 +10,9 @@ Enabling the creation of software applications and systems that power various as
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 These include the development of programming languages such as Fortran, C, ADA
-i). The establishment of software engineering as a discipline in the 1960s
-ii). The advent of structured programming in the 1970s
-iii). The rise of agile methodologies in the 2000s.
+1. The establishment of software engineering as a discipline in the 1960s
+2. The advent of structured programming in the 1970s
+3. The rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements: Gathering and documenting user needs and system requirements.
@@ -38,16 +38,16 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-i). Changing Requirements
-ii). Tight Deadlines
-iii). Technical Debt
+1. Changing Requirements
+2. Tight Deadlines
+3. Technical Debt
 Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-i). Unit Testing this involves testing individual components or modules of software.
-ii). Integration Testing involves testing interactions between different components or subsystems.
-iii). System Testing: Testing the entire software system as a whole.
-iv). Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+1. Unit Testing this involves testing individual components or modules of software.
+2. Integration Testing involves testing interactions between different components or subsystems.
+3. System Testing: Testing the entire software system as a whole.
+4. Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
 
@@ -59,9 +59,9 @@ Prompt engineering is the art of crafting questions or statements to get the bes
 IMPORTANCE: It helps avoid confusing answers by making your questions clear and specific, so the AI understands exactly what you need."
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. FOR EXAMPLE 
-Vague Prompt:
+1. Vague Prompt:
 Write about animals.
 
-Improved Prompt:
+2. Improved Prompt:
 Write a 200-word description of the habitat, diet, and behavior of African elephants.
 The improved prompt is more effective because it is specific, clear and concise
